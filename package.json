@@ -1,0 +1,10 @@
+{
+  "name": "js-lesson08-generate-list-from-input",
+  "version": "1.0.0",
+  "description": "From input, generate a list and number of elements of list.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": [
+    "generate list"
+  ]
+}
